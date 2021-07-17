@@ -2,10 +2,11 @@
 I'm a self-taught software developer and a Computer Science student, currently living in Buenos Aires
 
 
----SKILLS---
--JavaScript(ES6+)
--HTML/CSS
--React
--Node.js
--Python
--Linux
+---SKILLS--- <br>
+-JavaScript(ES6+) <br>
+-HTML/CSS <br>
+-React <br>
+-Node.js <br>
+-Python <br>
+-Linux <br>
+ 
