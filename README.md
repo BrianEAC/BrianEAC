@@ -9,4 +9,5 @@ I'm a self-taught software developer and a Computer Science student, currently l
 -Node.js <br>
 -Python <br>
 -Linux <br>
+-MongoDB <br>
  
