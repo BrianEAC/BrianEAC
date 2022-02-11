@@ -7,6 +7,7 @@ I'm a self-taught software developer, currently living in Buenos Aires
 -HTML/CSS <br>
 -React <br>
 -Node.js <br>
+-Java <br
 -Python <br>
 -Linux <br>
 -MongoDB <br>
