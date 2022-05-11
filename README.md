@@ -7,7 +7,7 @@ I'm a self-taught software developer, currently living in Buenos Aires
 -React <br>
 -Express <br>
 -Java <br>
--SQL
+-SQL <br>
 -Linux <br>
 -MongoDB <br>
  
