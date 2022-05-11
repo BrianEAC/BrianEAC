@@ -4,11 +4,10 @@ I'm a self-taught software developer, currently living in Buenos Aires
 
 ---SKILLS--- <br>
 -JavaScript(ES6+) <br>
--HTML/CSS <br>
 -React <br>
--Node.js <br>
--Java <br
--Python <br>
+-Express <br>
+-Java <br>
+-SQL
 -Linux <br>
 -MongoDB <br>
  
